@@ -1,2 +1,2 @@
 Web URL URL
-https://tannv-article-cms-project.azurewebsites.net
+https://wep-application1.azurewebsites.net
